@@ -1,7 +1,3 @@
-import { Header } from "./header";
-import { BackButton } from "./back-button";
-
-import { Card, CardFooter, CardHeader } from "@/components/ui/card";
 import { CardWrapper } from "./card-wrapper";
 import { ExclamationTriangleIcon } from "@radix-ui/react-icons";
 
